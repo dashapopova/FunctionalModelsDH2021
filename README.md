@@ -22,82 +22,76 @@
 ### Schedule
 <table>
   <tr>
-    <th>Week</th>
-    <th>Seminar</th>
-    <th>Homework</th>
-    <th>Due date</th>
-    <th>Reference</th>
+    <th>Дата</th>
+    <th>Тема</th>
+    <th>Кто ведет</th>
+    <th>ДЗ</th>
+    <th>Презентации</th>
   </tr>
    <tr>
-    <td>03.09.</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Pymystem, pymorphy</a><br>
-    <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem2.ipynb">Parsing Internet data</a></td>
-    <td></td>
+    <td>07.09.</td>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Введение</a><br>
+    <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem2.ipynb">Референция</a></td>
+    <td>Даша П</td>
     <td></td>
     <td>
     </td>
   </tr>
   <tr>
-    <td>10.09.</td>
-    <td>Word2vec<br>
-      TF-IDF
+    <td>21.09.</td>
+    <td>
     </td>
-    <td>HW1</td>
-    <td>due 24.09</td>
+    <td>Даша Р</td>
+    <td></td>
     <td>
     </td>
   </tr>
-    <td>17.09.</td>
-    <td>Your presentations<br>
-       Graphs<br>
-      Syntactic parsing</td>
+    <td>05.10.</td>
+    <td>Экспрессивы<br>
+       Ваши презентации
+    <td>Даша П</td>
+    <td>ДЗ 1</td>
     <td></td>
-    <td></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
     <tr>
-    <td>24.09.</td>
-    <td>Pandas<br>
-      Visualization</td>
-    <td>HW2</td>
-    <td>due 15.10</td>
+    <td>12.10.</td>
+    <td></td>
+    <td>Даша Р</td>
+    <td>ДЗ 2</td>
     <td>
   </td>
   </tr>
     <tr>
-    <td>01.10.</td>
-    <td>Databases (Not meeting! Self-study)
+    <td>09.11.</td>
+    <td>Речевые акты
   </td>
+    <td>Даша П</td>
+    <td>ДЗ 3</td>
     <td></td>
-    <td></td>
-    <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
   </tr>
     <tr>
-    <td>08.10</td>
+    <td>23.11.</td>
     <td>
-     Databases 2 <br>
-     Crowlers
+   Социолингвистика
   </td>
-    <td></td>
+    <td>Даша П</td>
   <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>15.10</td>
-    <td>JSON<br>
-      VK API <br>
-      Your presentations
+    <td>07.12.</td>
+    <td>
   </td>
+    <td>Даша Р</td>
+    <td>ДЗ 4</td>
     <td></td>
-    <td></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
   </tr>
     <tr>
-    <td>29.10(???)</td>
-    <td>Your presentations</td>
-    <td>Final project guidelines</td>
-    <td><b>Final Project is due 29.10</b>:triumph:</td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
+    <td>14.12.</td>
+    <td></td>
+    <td>Даша Р</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
