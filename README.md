@@ -30,8 +30,8 @@
   </tr>
    <tr>
     <td>07.09.</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Введение</a><br>
-    <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem2.ipynb">Референция</a></td>
+    <td><a href="">Введение</a><br>
+    <a href="">Референция</a></td>
     <td>Даша П</td>
     <td></td>
     <td>
