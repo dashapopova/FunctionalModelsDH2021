@@ -56,7 +56,7 @@
     <tr>
     <td>12.10.</td>
     <td>Метафора и метонимия<br>
-       Ваши презентации</td>
+       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
     <td>Даша Р</td>
     <td>ДЗ 2 до 2.11</td>
     <td>
@@ -65,7 +65,7 @@
     <tr>
     <td>09.11.</td>
     <td>Речевые акты<br>
-       Ваши презентации
+       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td>Даша П</td>
     <td>ДЗ 3 до 23.11</td>
@@ -75,7 +75,7 @@
     <td>23.11.</td>
     <td>
    Социолингвистика<br>
-       Ваши презентации
+       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td>Даша П</td>
   <td></td>
@@ -84,7 +84,7 @@
     <tr>
     <td>07.12.</td>
     <td>Жестовая лингвистика<br>
-       Ваши презентации
+       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td>Даша Р</td>
     <td>ДЗ 4 до 21.12</td>
@@ -94,7 +94,7 @@
     <tr>
     <td>14.12.</td>
     <td>Усвоение языка<br>
-       Ваши презентации</td>
+       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
     <td>Даша Р</td>
     <td></td>
     <td></td>
