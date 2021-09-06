@@ -48,7 +48,7 @@
   </tr>
     <td>05.10.</td>
     <td>Импликатуры<br>Экспрессивы<br>
-       Ваши презентации
+       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
     <td>Даша П</td>
     <td>ДЗ 1 до 19.10</td>
     <td></td>
