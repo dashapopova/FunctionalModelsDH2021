@@ -31,7 +31,7 @@
    <tr>
     <td>07.09.</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/07.09/%D0%A4%D0%9C_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.pptx.pdf">Введение: функциональная лингвистика</a><br>
-    <a href="">Референция</a></td>
+    <a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/07.09/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F.pdf">Референция</a></td>
     <td>Даша П</td>
     <td></td>
     <td>
