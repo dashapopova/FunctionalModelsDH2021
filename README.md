@@ -78,7 +78,7 @@
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td>Даша П</td>
-  <td></td>
+  <td>ДЗ 4 до 07.12</td>
     <td></td>
   </tr>
     <tr>
@@ -87,7 +87,7 @@
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td>Даша Р</td>
-    <td>ДЗ 4 до 21.12</td>
+    <td></td>
     <td></td>
   </tr>
   </tr>
