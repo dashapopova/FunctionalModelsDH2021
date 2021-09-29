@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>21.09.</td>
-    <td>Введение: когнитивная лингвистика
+    <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/21.09/Introduction%20to%20CL.pptx">Введение: когнитивная лингвистика</a>
     </td>
     <td>Даша Р</td>
     <td></td>
