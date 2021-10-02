@@ -50,7 +50,7 @@
     <td>Импликатуры<br>Экспрессивы<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
     <td>Даша П</td>
-    <td>ДЗ 1 до 19.10</td>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/HWs/HW1.md">ДЗ 1 до 19.10</a></td>
     <td></td>
    </tr>
     <tr>
