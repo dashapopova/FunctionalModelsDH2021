@@ -47,7 +47,7 @@
     </td>
   </tr>
     <td>05.10.</td>
-    <td>Импликатуры<br>Экспрессивы<br>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/05.10/FMEntPresImpl.pdf">Импликатуры</a><br><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/05.10/FMExpressives.pdf">Экспрессивы</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
     <td>Даша П</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/HWs/HW1.md">ДЗ 1 до 19.10</a></td>
