@@ -58,7 +58,7 @@
     <td>Метафора и метонимия<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
     <td>Даша Р</td>
-    <td>ДЗ 2 до 2.11</td>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/HWs/HW2.md">ДЗ 2 до 2.11</a></td>
     <td>
   </td>
   </tr>
