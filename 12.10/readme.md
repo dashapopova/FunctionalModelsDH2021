@@ -1,3 +1,3 @@
 Metaphor & Metonymy
-CLICS
-DatSemShift
+
+CLICS & DatSemShift - [видеоинструкция](https://cloud.mail.ru/public/NXkV/Da12N1nm8)
