@@ -1,0 +1,3 @@
+Metaphor & Metonymy
+CLICS
+DatSemShift
