@@ -55,7 +55,7 @@
    </tr>
     <tr>
     <td>12.10.</td>
-    <td>Метафора и метонимия<br>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/12.10/metaphor%20and%20metonymy.pptx">Метафора и метонимия</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
     <td>Даша Р</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/HWs/HW2.md">ДЗ 2 до 2.11</a></td>
