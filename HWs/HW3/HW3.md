@@ -23,7 +23,7 @@
 
 **Задание 2** -- не на оценку
 
-Изучите код для моделирования RSA. Можно консультироваться с [тьюториалом](https://www.problang.org/chapters/01-introduction.html), можно изучить [промпт](https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/HWs/HW3/RSA_prompt.ipynb), где проиллюстрированы примеры, которые мы рассматривали на занятии.
+Изучите код для моделирования RSA. Можно консультироваться с [тьюториалом](https://www.problang.org/chapters/01-introduction.html), можно изучить [промпт](https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/HWs/HW3/RSA_prompt.ipynb), где проиллюстрированы примеры, которые мы рассматривали на занятии.
 
 **Задание 3** -- 2 балла
 
