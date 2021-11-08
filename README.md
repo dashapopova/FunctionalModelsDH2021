@@ -64,7 +64,7 @@
   </tr>
     <tr>
     <td>09.11.</td>
-    <td>Речевые акты<br>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/9.11/%D0%A4%D0%9C_%D0%A0%D0%B5%D1%87%D0%B5%D0%B2%D1%8B%D0%B5%D0%90%D0%BA%D1%82%D1%8B.pptx">Речевые акты</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td>Даша П</td>
