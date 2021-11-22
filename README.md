@@ -74,7 +74,7 @@
     <tr>
     <td>23.11.</td>
     <td>
-   Социолингвистика<br>
+   <a href="https://github.com/dashapopova/FunctionalModelsDH2021/tree/main/23.11">Социолингвистика</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td>Даша П</td>
