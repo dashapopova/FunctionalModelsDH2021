@@ -78,7 +78,7 @@
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td>Даша П</td>
-  <td>ДЗ 4 до 07.12</td>
+  <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/HWs/HW4.md">ДЗ 4 до 09.12</a></td>
     <td></td>
   </tr>
     <tr>
